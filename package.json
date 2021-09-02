@@ -1,12 +1,13 @@
 {
-  "name": "data-binding",
+  "name": "DataBindingTutorial",
+  "private": true,
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "author": "SAP SE",
+  "description": "UI5 Demo App - Data Binding Tutorial",
+  "dependencies": {
+    "@openui5/sap.m": "^1",
+    "@openui5/sap.ui.core": "^1",
+    "@openui5/sap.ui.layout": "^1",
+    "@openui5/themelib_sap_belize": "^1"
+  }
 }
